@@ -6,4 +6,6 @@
 
 ## start get-get-pip.py
 - 安装selenium `pip install selenium`
+- 安装chromedriver
 - 更改username,passwd,xpath，即可使用
+
